@@ -1,1 +1,1 @@
-# tablecubes
+# tictactoe_zodiac
